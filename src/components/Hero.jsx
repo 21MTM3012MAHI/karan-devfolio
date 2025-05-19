@@ -87,13 +87,16 @@ export default function Hero() {
               />
 
               {/* Small bouncing icon */}
-              <motion.div
-                animate={{ y: [0, -10, 0] }}
+            <motion.div
+               animate={{ y: [0, -10, 0] }}
                 transition={{ repeat: Infinity, duration: 2, ease: "easeInOut" }}
-                className="absolute -top-4 -right-4 w-12 h-12 bg-primary/20 rounded-full flex items-center justify-center"
-              >
-                <FaCode className="text-xl text-primary" />
-              </motion.div>
+                 className="absolute -top-4 -right-4 w-12 h-12 bg-primary/20 rounded-full flex items-center justify-center cursor-pointer"
+                  onClick={() => window.open('https://karansundariya.github.io/Karan-DSA-Profile/', '_blank')}
+                  title="Competative Programming and DSA Profiles"
+>
+  <FaCode className="text-xl text-primary" />
+</motion.div>
+
             </div>
           </motion.div>
         </div>
