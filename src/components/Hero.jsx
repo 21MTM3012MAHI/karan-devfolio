@@ -81,7 +81,7 @@ export default function Hero() {
 
               {/* Your Image */}
               <img
-                src="src/assets/profile.JPG"
+                src="/assets/profile.JPG"
                 alt="Karan Sundariya"
                 className="absolute inset-0 w-full h-full rounded-full object-cover object-top"
               />

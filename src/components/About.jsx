@@ -41,7 +41,7 @@ export default function About() {
             </a>
 
             <a
-              href="src/assets/KaranSundariya_Resume.pdf"
+              href="assets/KaranSundariya_Resume.pdf"
               download
               className="inline-flex items-center gap-3 bg-emerald-600 hover:bg-emerald-700 transition-colors duration-300 text-white font-semibold py-3 px-8 rounded-full shadow-md hover:shadow-lg"
             >

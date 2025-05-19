@@ -6,7 +6,7 @@ const projects = [
     title: 'CVNirman_AI',
     description:
       'AI-powered resume and cover letter builder using Gemini API and Firebase Auth. Helps generate professional documents effortlessly.',
-    image: 'src/assets/cvnirmaan-ai.png',
+    image: '/assets/cvnirmaan-ai.png',
     tech: ['React', 'TailwindCSS', 'Firebase', 'Gemini API'],
     github: 'https://github.com/karansundariya/CVNirmaan_AI',
     demo: 'https://cvnirmaan-ai.vercel.app',
@@ -15,7 +15,7 @@ const projects = [
     title: 'Saahitya 📚 - The Reading App',
     description:
       'Modern book app built with vanilla JS and Google Books API. Features personalized recommendations and dark mode.',
-    image: 'src/assets/saahitya.png',
+    image: '/assets/saahitya.png',
     tech: ['HTML', 'CSS', 'JavaScript', 'Google Books API'],
     github: 'https://github.com/karansundariya/Saahitya-Hub',
     demo: 'https://karansundariya.github.io/Saahitya-Hub',
@@ -24,7 +24,7 @@ const projects = [
     title: 'Karan DSA Profile',
     description:
       'Personal webpage to showcase my coding and DSA profiles (LeetCode, GFG, etc.) with a clean and responsive UI.',
-    image: 'src/assets/karan-dsa-profile.png',
+    image: '/assets/karan-dsa-profile.png',
     tech: ['HTML', 'TailwindCSS', 'JavaScript'],
     github: 'https://github.com/karansundariya/Karan-DSA-Profile',
     demo: 'https://karansundariya.github.io/Karan-DSA-Profile/',
